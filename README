@@ -1,0 +1,2 @@
+This is a small piece of code to drive GDB from ruby.
+It can be useful sometimes for various hacks.
