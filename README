@@ -1,2 +1,7 @@
+This is public domain.
+
 This is a small piece of code to drive GDB from ruby.
 It can be useful sometimes for various hacks.
+
+One such hack is described in
+http://alkandratsenka.blogspot.com/2009/12/speeding-up-firewatir.html.
