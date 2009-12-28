@@ -97,7 +97,7 @@ HERE
   end
 end
 
-if __FILE__ == ARGV[0]
+if __FILE__ == $0
   pid = ARGV[0] || raise("need PID")
 
   if pid == "--mongrels"
